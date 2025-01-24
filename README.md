@@ -2,10 +2,10 @@
 A Python-based project that validates user details and sends personalized email notifications to users with valid data. This project automates the process of data validation and email delivery, making it an efficient tool for managing user information.
 
 # Features
-## Data Validation: Checks the accuracy of user inputs (Name, Gender, DOB, Mobile, and Email) using regular expressions.
-## Error Handling: Identifies and skips invalid data entries while notifying about errors.
-## Email Automation: Sends customized emails to users with valid information using the SMTP protocol.
-## File Handling: Processes user data from a text file.
+### Data Validation: Checks the accuracy of user inputs (Name, Gender, DOB, Mobile, and Email) using regular expressions.
+### Error Handling: Identifies and skips invalid data entries while notifying about errors.
+### Email Automation: Sends customized emails to users with valid information using the SMTP protocol.
+### File Handling: Processes user data from a text file.
 
 # Tech Stack
 Python: Core language for implementation.
@@ -59,6 +59,6 @@ Valid users will receive a personalized email with their details.
 Invalid entries will display an error message in the console.
 
 # Future Enhancements
-Add support for additional email providers.
-Integrate a graphical user interface (GUI) for easier interaction.
-Implement logging for detailed error tracking.
+### Add support for additional email providers.
+### Integrate a graphical user interface (GUI) for easier interaction.
+### Implement logging for detailed error tracking.
